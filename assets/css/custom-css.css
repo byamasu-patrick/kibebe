@@ -1,0 +1,24 @@
+.sender-msg{
+	margin: 5px;
+	border: none;
+	width: 100%;
+	height: auto;
+	border-radius: 10px;
+	padding: 5px;
+}
+.sender_txt{
+	font-size: 11px;
+	padding: 0px;
+	color: #fff;
+	margin: 0px;
+}
+.receiver_txt{
+  margin-left: 10%;
+  font-size: 11px;
+  padding: 0px;
+  color: #858796;
+  margin: 0px;
+}
+.before-select{
+	display: none;
+}
